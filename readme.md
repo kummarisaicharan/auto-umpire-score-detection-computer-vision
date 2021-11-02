@@ -1,5 +1,4 @@
-## Auto Cricket Umpire Score detection based on pose 
-estimation in computer vision
+## Auto Cricket Umpire Score detection based on pose estimation in computer vision
 
 This project uses *openc-cv* library in addition to 
 mathematical analysis of the cricket umpire gestures 
